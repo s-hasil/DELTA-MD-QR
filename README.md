@@ -4,7 +4,15 @@
   ***Run on [`Replit`](https://replit.com/@joyboysar/SHADOW-MD-QR-2?v=1)***
 
 
+
+## Installation
+---
+1.  ***Run on [`Replit`](https://replit.com/github/SuhailTechInfo/Baileys-Qr)***
+2. ***Run manually in any terminal Terminal, `TERMUX, VPS, RDP, etc.`***
+```
 $ git clone https://replit.com/github.com/SuhailTechInfo/Baileys-Qr.git
 $ cd suhail-qr
 $ npm i
 $ npm start
+```
+##

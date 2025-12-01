@@ -15,7 +15,7 @@
     "author": "JoyBoySer",
     "license": "",
     "dependencies": {
-      "@whiskeysockets/baileys": "latest",
+      "@sampandey001/baileys": "latest",
       "child_process": "latest",
       "fs-extra": "latest",
       "pino": "^8.1.0",
